@@ -1,7 +1,7 @@
 {
   "websites":[
-    {"name":"example_name", "address":"http://example.com"},
-    {"name":"Rob's Place", "address":"robsplace.dev"},
-    {"name":"MikeOS", "address":"mikeos.thsite.top"}
+    {"name":"example_name", "address":"http://example.com", "previousOveride":"none", "nextOveride":"none"},
+    {"name":"Rob's Place", "address":"robsplace.dev", "previousOveride":"none", "nextOveride":"none"},
+    {"name":"MikeOS", "address":"mikeos.thsite.top" "previousOveride":"none", "nextOveride":"none"}
   ]
 }
