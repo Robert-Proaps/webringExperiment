@@ -1,5 +1,7 @@
 {
   "websites":[
-    {"name":"example_name", "address":"http://example.com"}
+    {"name":"example_name", "address":"http://example.com"},
+    {"name":"Rob's Place", "address":"robsplace.dev"},
+    {"name":"MikeOS", "address":"mikeos.thsite.top"}
   ]
 }
