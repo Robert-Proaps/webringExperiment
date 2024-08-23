@@ -1,1 +1,5 @@
-
+{
+  "websites":[
+    {"name":"example_name", "address":"http://example.com"}
+  ]
+}
