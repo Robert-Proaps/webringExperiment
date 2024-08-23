@@ -1,6 +1,6 @@
-#An Experimental Webring Implementation
+# An Experimental Webring Implementation
 
-##How it works.
+## How it works.
 
 A list of sites in the webring is contained in the json file, website using the ring can pull the list of sites using fetch within their javascript.
 
